@@ -233,7 +233,7 @@ export default function SiteChecklistClient({
               {labelForStorage('cloudflare-r2')}:
               {' '}
               {renderLink(
-                'https://github.com/sambecker/exif-photo-blog#cloudflare-r2',
+                'https://gist.github.com/ctrl-beep/6134c9262e70c3852e0150c65ad2b734#cloudflare-r2',
                 'create/configure bucket',
               )}
             </>)}
@@ -243,7 +243,7 @@ export default function SiteChecklistClient({
               {labelForStorage('aws-s3')}:
               {' '}
               {renderLink(
-                'https://github.com/sambecker/exif-photo-blog#aws-s3',
+                'https://gist.github.com/ctrl-beep/6134c9262e70c3852e0150c65ad2b734#aws-s3',
                 'create/configure bucket',
               )}
             </>)}
