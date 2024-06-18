@@ -15,7 +15,6 @@ export function GET() {
   url.searchParams.set('demo-description', DESCRIPTION);
   url.searchParams.set('demo-url', 'https://jeremydaniel.co');
   url.searchParams.set('demo-description', DESCRIPTION);
-  url.searchParams.set('demo-image', 'https://photo.sambecker.com/template-image-tight');
   url.searchParams.set('project-name', TITLE);
   url.searchParams.set('repository-name', REPO_NAME);
   url.searchParams.set('repository-url', `https://github.com/${REPO_TEAM}/${REPO_NAME}`);
