@@ -1,5 +1,5 @@
 {
-  "name": "jd-blog",
+  "name": "exif-photo-blog",
   "scripts": {
     "dev": "next dev --turbo",
     "build": "next build",
